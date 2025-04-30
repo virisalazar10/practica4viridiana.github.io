@@ -40,7 +40,7 @@
 <body>
 
     <header>
-        <h1>LA MODA </h1>
+        <h1>LA MODA EN TODO MOMENTO </h1>
     </header>
 
     <nav>
