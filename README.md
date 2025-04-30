@@ -45,7 +45,7 @@
 
     <nav>
         <a href="#moda ">Inicio</a>
-        <a href="#sobre-mi">Sobre Mí</a> La moda es un estilo o tendencia en la vestimenta ,el calzado ,los accesorios y otros aspectos de la apariencia personal que se considera 
+        <a href="#PRODUCTO ">Sobre Mí</a> La moda es un estilo o tendencia en la vestimenta ,el calzado ,los accesorios y otros aspectos de la apariencia personal que se considera 
         actrativo o aceptable en un momento y lugar determinados .la moda puede variar segun la cultura la epoca y el grupo social,y puede ser influenciada por factores como la economia 
         asi como una forma de exprecion personal permitiendo a las personas mostrar su individualidad y estilo 
         
