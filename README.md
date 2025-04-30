@@ -45,7 +45,7 @@ viridiana salazar de pedro
     </header>
 
     <nav>
-        <a href="#inicio">Inicio</a>
+        <a href="#moda ">Inicio</a>
         <a href="#sobre-mi">Sobre Mí</a>
         <a href="#contacto">Contacto</a>
     </nav>
