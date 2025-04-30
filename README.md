@@ -1,5 +1,4 @@
-# practica4viridiana.github.io
-viridiana salazar de pedro 
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -41,12 +40,15 @@ viridiana salazar de pedro
 <body>
 
     <header>
-        <h1>la moda   Web</h1>
+        <h1>LA MODA </h1>
     </header>
 
     <nav>
         <a href="#moda ">Inicio</a>
-        <a href="#sobre-mi">Sobre Mí</a>
+        <a href="#sobre-mi">Sobre Mí</a> La moda es un estilo o tendencia en la vestimenta ,el calzado ,los accesorios y otros aspectos de la apariencia personal que se considera 
+        actrativo o aceptable en un momento y lugar determinados .la moda puede variar segun la cultura la epoca y el grupo social,y puede ser influenciada por factores como la economia 
+        asi como una forma de exprecion personal permitiendo a las personas mostrar su individualidad y estilo 
+        
         <a href="#contacto">Contacto</a>
     </nav>
 
