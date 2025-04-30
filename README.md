@@ -52,7 +52,7 @@ viridiana salazar de pedro
 
     <main>
         <section id="inicio">
-            <h2>Inicio</h2>
+            <h2>ropa de moda </h2>
             <p>Esta es una página de ejemplo hecha con HTML y un poco de CSS.</p>
         </section>
 
