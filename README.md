@@ -41,7 +41,7 @@ viridiana salazar de pedro
 <body>
 
     <header>
-        <h1>el medio ambiente en las manos  Web</h1>
+        <h1>la moda   Web</h1>
     </header>
 
     <nav>
